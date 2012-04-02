@@ -1,15 +1,33 @@
-pod2text Eclipse::PHPMe.pm > README
+NAME
+    phpme - Turns any directory into an Eclipse PDT PHP project
 
-If this is still here it means the programmer was too lazy to create the readme file.
+VERSION
+    This document references version 0.01 of Eclipse::PHPMe.
 
-You can create it now by using the command shown above from this directory.
+USAGE
+    At the command prompt:
 
-At the very least you should be able to use this set of instructions
-to install the module...
+      % phpme <directory>
 
-perl Makefile.PL
-make
-make test
-make install
+DESCRIPTION
+    A simple module for transforming any directory into an Eclipse PDT PHP
+    project.
 
-If you are on a windows box you should use 'nmake' rather than 'make'.
+BUGS
+    https://github.com/kinow/eclipse_phpme/issues
+
+AUTHOR
+        Bruno P. Kinoshita
+        CPAN ID: kinow
+        TupiLabs
+        brunodepaulak@yahoo.com.br
+        http://www.kinoshita.eti.br
+
+COPYRIGHT
+    This program is free software licensed under the...
+
+        The MIT License
+
+    The full text of the license can be found in the LICENSE file included
+    with this module.
+
