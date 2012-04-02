@@ -5,4 +5,4 @@ Todo
 Changes
 Makefile.PL
 lib/Eclipse/PHPMe.pm
-scripts/pphpme
+scripts/phpme
